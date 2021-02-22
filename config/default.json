@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://robert:Admin8989@devconnect.fpmav.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "JWT_SECRET": "SJVBSVBKSSSBHFBRFGRFFBK"
+}
